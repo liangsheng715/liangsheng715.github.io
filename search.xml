@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>WSL不支持systemctl与service命令解决办法</title>
+      <link href="/2023/02/02/wsl-bu-zhi-chi-systemctl-yu-service-ming-ling-jie-jue-ban-fa/"/>
+      <url>/2023/02/02/wsl-bu-zhi-chi-systemctl-yu-service-ming-ling-jie-jue-ban-fa/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>ubuntu-wsl2-systemd-script（适用ubuntu）</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> <span class="token function">apt</span> <span class="token function">install</span> <span class="token function">git</span><span class="token function">git</span> clone https://github.com/DamionGans/ubuntu-wsl2-systemd-script.git<span class="token builtin class-name">cd</span> ubuntu-wsl2-systemd-script/<span class="token function">bash</span> ubuntu-wsl2-systemd-script.sh<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><p>genie(适用arch/manjaro/centos等)</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">yay dotnetyay <span class="token parameter variable">-S</span> genie-systemd<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> wsl2 </tag>
+            
+            <tag> ubuntu </tag>
+            
+            <tag> systemctl </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
